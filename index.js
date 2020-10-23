@@ -1,4 +1,4 @@
-import reddit from './redditApi';
+import reddit from './redditApi.js';
 
 const searchForm = document.getElementById('search-form');
 const searchInput = document.getElementById('search-input');
