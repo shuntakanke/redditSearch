@@ -1,0 +1,22 @@
+{
+  "name": "redditsearch",
+  "version": "1.0.0",
+  "description": "Reddit search app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuntakanke/redditSearch.git"
+  },
+  "author": "shunta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuntakanke/redditSearch/issues"
+  },
+  "homepage": "https://github.com/shuntakanke/redditSearch#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
